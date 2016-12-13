@@ -1,4 +1,4 @@
-# trent
+# Trent
 Trent's portfolio site
 
 #### Technical inspiration:
